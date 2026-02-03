@@ -1,4 +1,4 @@
-# Project-1
+# Project-1 Organizing and Summarizing Air Quality Data
 This includes files for Project No. 1 
 
 ## Repo Structure
